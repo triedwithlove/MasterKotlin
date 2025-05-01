@@ -1,2 +1,2 @@
 # MasterKotlin
-training about Kotlin
+training about Kotlin.
